@@ -1,2 +1,2 @@
-# c-_week1
+# C-Sharp_week1
 Training projects 
